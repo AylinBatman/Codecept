@@ -55,3 +55,7 @@ Scenario('TEST CASE 1: ', (I) => {
 
 
 ![TestCalisma](https://user-images.githubusercontent.com/30020308/67467469-73f91b80-f651-11e9-84f3-d4bd48cd107f.PNG)
+
+
+![TestSenaryoEGör](https://user-images.githubusercontent.com/30020308/67467533-955a0780-f651-11e9-8bc8-e83beaf04fd8.PNG)
+
